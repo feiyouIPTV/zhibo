@@ -57,7 +57,7 @@ CHC-动作电影,http://117.148.179.162/PLTV/88888888/224/3221231580/index.m3u8
 凤凰资讯,http://183.207.249.35/PLTV/3/224/3221226923/index.m3u8#http://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8
 CINEMAX,https://livecdn.fptplay.net/hda1/cinemax_hls.smil/chunklist_b2500000.m3u8
 香港HKS,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
-明珠台，http://113.64.147.9:808/hls/26/index.m3u8
+明珠台,http://113.64.147.9:808/hls/26/index.m3u8
 TvB星河,http://113.64.147.9:808/hls/135/index.m3u8
 澳视澳门,http://61.244.22.4/ch2/ch2.live/playelist.m3u8#http://61.244.22.4/ch2/ch2.live/index.m3u8#http://61.244.22.4/ch2/ch2.live/chunklist_w1632175875.m3u8#http://103.233.191.133:1935/ch1/ch1.live/playlist.m3u8#http://103.233.191.134:1935/ch1/ch1.live/playlist.m3u8
 澳视葡文,http://103.233.191.132:1935/ch2/ch2.live/playlist.m3u8#http://103.233.191.133:1935/ch2/ch2.live/playlist.m3u8#http://103.233.191.134:1935/ch2/ch2.live/playlist.m3u8
