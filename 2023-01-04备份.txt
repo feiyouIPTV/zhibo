@@ -50,7 +50,7 @@ TVBS新闻台,http://38.64.72.148:80/hls/modn/list/4006/chunklist0.m3u8
 TVBS娱乐台,http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8
 民视新闻台,http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8
 台视新闻HD,http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8
-东森新闻,http://38.64.72.148:80/hls/modn/list/2015/chunklist0.m3u8
+东森新闻,http://38.64.72.148:80/hls/modn/list/2015/chunklist0.m3u8#http://50.7.220.74:8278/ettvnews/playlist.m3u8?tid=ME5E8863997888639978&ct=19193&tsum=6b0236441f10a7195fb35fe7997db68c
 华语电视1,http://38.64.72.148:80/hls/modn/list/4001/chunklist0.m3u8
 华语电视2,http://38.64.72.148:80/hls/modn/list/4002/chunklist0.m3u8
 华语电视3,http://38.64.72.148:80/hls/modn/list/4003/chunklist0.m3u8
