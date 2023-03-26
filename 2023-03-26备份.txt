@@ -35,10 +35,6 @@ CHC-高清电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/i
 翡翠台,http://23.237.10.66:16106
 明珠台,http://113.64.147.9:808/hls/26/index.m3u8
 有线新闻,http://61.10.2.140:80/live_freedirect/freehd209_h.live/chunklist_w135209556.m3u8
-大爱一台,https://pulltv1.wanfudaluye.com/live/tv1.m3u8
-大爱二台,https://pulltv2.wanfudaluye.com/live/tv2.m3u8
-好消息电视台1,http://live-350k.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch1-1.m3u8
-好消息电视台2,http://live-350k.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch2-1.m3u8
 香港开电视,https://live-hls-web-ajb.getaj.net/AJB/01.m3u8
 中天新闻,http://23.237.10.66:16372
 中天亞洲,http://50.7.220.74:8278/ctiasia_twn/playlist.m3u8?tid=mfc2c5bc6c101&ct=18335&tsum=d074a602fcd98718afeb8fc9a18fa964
@@ -56,7 +52,13 @@ TVBS娱乐台,http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8
 华语电视3,http://38.64.72.148:80/hls/modn/list/4003/chunklist0.m3u8
 华藏卫视,https://js1.amtb.cn/liveedge/_definst_/livetv/playlist.m3u8
 长城精品,http://38.64.72.148:80/hls/modn/list/4008/chunklist0.m3u8
-唯心电视,http://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/chunklist_w1177047531.m3u8
+唯心电视,http://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/chunklist_w1177047531.m3u8#https://61.216.67.119/wxtv/wxtvnow.stream/playlist.m3u8
+生命电视,http://211.73.19.201/AB167E56-808C-81D4-6471-76DC400D5192.m3u8?cpid=admin
+人间电视,https://61.216.67.119/bltvhd/bltv1/playlist.m3u8
+大爱一台,https://pulltv1.wanfudaluye.com/live/tv1.m3u8
+大爱二台,https://pulltv2.wanfudaluye.com/live/tv2.m3u8
+好消息电视台1,http://live-350k.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch1-1.m3u8
+好消息电视台2,http://live-350k.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch2-1.m3u8
 点掌财经,http://cclive.aniu.tv/live/anzb.m3u8
 耀才财经,http://202.69.67.66:443/webcast/bshdlive-mobile/playlist.m3u8
 MTV Biggest Pop,http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master.m3u8
