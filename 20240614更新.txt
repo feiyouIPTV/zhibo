@@ -1,4 +1,4 @@
-﻿===央视频道===
+===央视频道===
 CCTV-1 综合,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8
 CCTV-2 财经,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225588/index.m3u8
 CCTV-3 综艺,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226021/index.m3u8
@@ -40,113 +40,36 @@ CEC国际健康,http://play.cec-tv.com.cn/channel/cec-tv4.m3u8
 中央新影_老故事,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226236/index.m3u8
 中国气象,http://hls.weathertv.cn/tslslive/qCFIfHB/hls/live_sd.m3u8
 中国交通-海南,http://tv.lanjingfm.com/cctbn/hainan.m3u8?zhaind#https://tv.lanjingfm.com/cctbn/hainan.m3u8
-重温经典,http://171.208.14.218:9090/live/cwjd/hls.m3u8
+重温经典,http://xyt.186738613.xyz/lngd.php?id=635&Cf.m3u8#http://ali.hlspull.yximgs.com/live/awei_cwjd.flv
+郑铁有线频道,http://39.162.27.11:8081/newlive/live/hls/1/live.m3u8
+人民铁道频道,http://39.162.27.11:8081/newlive/live/hls/2/live.m3u8
 ===港澳台频道===
-凤凰电影,http://218.202.220.2:5000/nn_live.ts?id=NEWSASIA
-凤凰资讯,http://154.9.228.245:741/smt.php?id=phoenixinfo_hd#http://110.72.81.102:8181/tsfile/live/1064_1.m3u8#http://61.221.215.25:8800/hls/47/index.m3u8#http://116.162.6.191/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226320/index.m3u8
-凤凰中文,http://210.210.155.37/uq2663/h/h157/index2.m3u8#http://223.109.210.41/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel52003/index.m3u8#https://histar-proxy.isus.cc/phtv-cn
-凤凰卫视 香港台,https://histar-proxy.isus.cc/phtv-hk
-纬来体育,http://hls.szsummer.cn/live/446035/playlist.m3u8?k=32f9ec7c13e4b390289143a8e1b2a898&t=1840341130
-经典都市台,https://ali.hlspull.yximgs.com/live/asdfg32516.flv
-TVB 翡翠台,https://histar-proxy.isus.cc/feicui
-TVB PLUS,https://histar-proxy.isus.cc/tvb-plus
-TVB 黄金翡翠台,https://histar-proxy.isus.cc/golden-jade
-TVB 星河台,https://histar-proxy.isus.cc/tvb-xinghe
-TVB 亚洲剧台,https://histar-proxy.isus.cc/tvb-asia-drama
-TVB 娱乐新闻台,https://histar-proxy.isus.cc/TVB ylxw
-J2,https://histar-proxy.isus.cc/j2
-港台电视 31,https://histar-proxy.isus.cc/rthk31
-港台电视 32,https://histar-proxy.isus.cc/rthk32
+凤凰资讯,http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pin72.m3u8#http://116.162.6.191/1301-txt.otvstream.otvcloud.com/otv/skcc/live/channel52002/index.m3u8#http://61.221.215.25:8800/hls/47/index.m3u8#http://116.162.6.191/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226320/index.m3u8
+凤凰中文,http://116.162.6.191/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226317/index.m3u8#http://116.162.6.191/1301-txt.otvstream.otvcloud.com/otv/skcc/live/channel52003/index.m3u8#http://b7259c.netsite.cc/proxy/1846789161/1846789161.m3u8
+香港环球,http://zb.xzxwhcb.com:9999/hls/world.m3u8
 有线新闻,http://61.10.2.140:80/live_freedirect/freehd209_h.live/chunklist_w135209556.m3u8
 香港34台,https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream02/streamPlaylist.m3u8#https://news.cgtn.com/resource/live/document/cgtn-doc.m3u8
 香港HKS,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8#https://histar-proxy.isus.cc/hks
 amc电影台,http://61.221.215.25:8800/hls/43/index.m3u8
 美亚电影,http://154.9.228.245:741/smt.php?id=meiyamovie_twn
-Now 财经台,https://histar-proxy.isus.cc/now-finance
-Now 爆谷台,https://histar-proxy.isus.cc/baogu-movies
-Now 星影台,https://histar-proxy.isus.cc/now-baogu-superstars
-Now 新闻台,https://histar-proxy.isus.cc/now-news
-Now华剧台,https://histar-proxy.isus.cc/now-chinese-drama
-HBO Now115,https://histar-proxy.isus.cc/Now-HBO
-Now HBO Family,https://histar-proxy.isus.cc/now-hbof-amily
-Now HBO Signature,https://histar-proxy.isus.cc/now-hbo-signature
-MovieMovie,https://histar-proxy.isus.cc/moviemovie
-NowViu剧集台,https://histar-proxy.isus.cc/now-viu-drama
-HOY 资讯台,https://histar-proxy.isus.cc/hoy-info
-HOY TV,https://histar-proxy.isus.cc/hoytv
-HOY国际财经,https://histar-proxy.isus.cc/hoy-ibc
-ViuTV,https://histar-proxy.isus.cc/viutv
-天映频道,https://histar-proxy.isus.cc/celestial
-Thrill,https://histar-proxy.isus.cc/thrill
-面包台,https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
 澳亚卫视,https://live.mastvnet.com/lsdream/lY44pmm/2000/live.m3u8#https://histar-proxy.isus.cc/mastv
-澳门卫视,https://histar-proxy.isus.cc/mstv
-澳门资讯,https://histar-proxy.isus.cc/tdm-information
-澳视澳门,https://histar-proxy.isus.cc/tdm
 台湾番薯台,http://61.216.67.119:1935/TWHG/E1/chunklist_w705811302.m3u8
 TVBS新闻台,http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8#http://43.155.27.52/litv.php?token=DG5HTF4S1FSA&id=4gtv-4gtv072
 TVBS亚洲,http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8#http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
-TVBS精采台,http://43.155.27.52/litv.php?token=DG5HTF4S1FSA&id=4gtv-4gtv067
 民视HD,rtmp://f13h.mine.nu/sat/tv051
-民視,http://43.155.27.52/litv.php?token=DG5HTF4S1FSA&id=4gtv-4gtv155
-民视新闻台,http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8#http://43.155.27.52/litv.php?token=DG5HTF4S1FSA&id=litv-ftv13
-民視台灣台,http://43.155.27.52/litv.php?token=DG5HTF4S1FSA&id=4gtv-4gtv001
-民視第一台,http://43.155.27.52/litv.php?token=DG5HTF4S1FSA&id=4gtv-4gtv003
-民視綜藝台,http://43.155.27.52/litv.php?token=DG5HTF4S1FSA&id=4gtv-4gtv004
-民視影劇台,http://43.155.27.52/litv.php?token=DG5HTF4S1FSA&id=litv-ftv09
+民视新闻台,http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8
 台视HD,rtmp://f13h.mine.nu/sat/tv071
-台視,http://43.155.27.52/litv.php?token=DG5HTF4S1FSA&id=4gtv-4gtv066
-台视新闻HD,http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8#http://43.155.27.52/litv.php?token=DG5HTF4S1FSA&id=4gtv-4gtv051
-台視財經,http://43.155.27.52/litv.php?token=DG5HTF4S1FSA&id=4gtv-4gtv056
+台视新闻HD,http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8
 中视HD,rtmp://f13h.mine.nu/sat/tv091
-中視,http://43.155.27.52/litv.php?token=DG5HTF4S1FSA&id=4gtv-4gtv040
-中視菁采台,http://43.155.27.52/litv.php?token=DG5HTF4S1FSA&id=4gtv-4gtv064
-中視經典台,http://43.155.27.52/litv.php?token=DG5HTF4S1FSA&id=4gtv-4gtv080
-中天新聞台,http://43.155.27.52/litv.php?token=DG5HTF4S1FSA&id=4gtv-4gtv009
-中天亞洲台,http://43.155.27.52/litv.php?token=DG5HTF4S1FSA&id=4gtv-4gtv109
-非凡新聞台,http://43.155.27.52/litv.php?token=DG5HTF4S1FSA&id=4gtv-4gtv010
-八大精彩台,http://43.155.27.52/litv.php?token=DG5HTF4S1FSA&id=4gtv-4gtv034
-華視,http://43.155.27.52/litv.php?token=DG5HTF4S1FSA&id=4gtv-4gtv041
-寰宇新聞台,http://43.155.27.52/litv.php?token=DG5HTF4S1FSA&id=litv-longturn14
-客家電視台,http://43.155.27.52/litv.php?token=DG5HTF4S1FSA&id=4gtv-4gtv043
-环球电视台,http://zb.xzxwhcb.com:9999/hls/world.m3u8
 东森新闻,http://38.64.72.148:80/hls/modn/list/2015/chunklist0.m3u8
-東森新聞台,http://43.155.27.52/litv.php?token=DG5HTF4S1FSA&id=4gtv-4gtv152
-東森財經新聞台,http://43.155.27.52/litv.php?token=DG5HTF4S1FSA&id=4gtv-4gtv153
-東森購物2台,http://43.155.27.52/litv.php?token=DG5HTF4S1FSA&id=4gtv-4gtv103
-非凡商業台,http://43.155.27.52/litv.php?token=DG5HTF4S1FSA&id=4gtv-4gtv048
 华语电视2,http://38.64.72.148:80/hls/modn/list/4002/chunklist0.m3u8
 华语电视3,http://38.64.72.148:80/hls/modn/list/4003/chunklist0.m3u8
-长城精品,http://38.64.72.148:80/hls/modn/list/4008/chunklist0.m3u8
-豬哥亮歌廳秀,http://43.155.27.52/litv.php?token=DG5HTF4S1FSA&id=4gtv-4gtv006
-影迷數位電影台,http://43.155.27.52/litv.php?token=DG5HTF4S1FSA&id=4gtv-4gtv011
-視納華仁紀實頻道,http://43.155.27.52/litv.php?token=DG5HTF4S1FSA&id=4gtv-4gtv013
-第1商業台,http://43.155.27.52/litv.php?token=DG5HTF4S1FSA&id=4gtv-4gtv104
-時尚運動X,http://43.155.27.52/litv.php?token=DG5HTF4S1FSA&id=4gtv-4gtv014
-達文西頻道,http://43.155.27.52/litv.php?token=DG5HTF4S1FSA&id=4gtv-4gtv018
-靖天卡通台,http://43.155.27.52/litv.php?token=DG5HTF4S1FSA&id=4gtv-4gtv044
-靖洋戲劇台,http://43.155.27.52/litv.php?token=DG5HTF4S1FSA&id=4gtv-4gtv045
-靖天日本台,http://43.155.27.52/litv.php?token=DG5HTF4S1FSA&id=4gtv-4gtv047
-靖天歡樂台,http://43.155.27.52/litv.php?token=DG5HTF4S1FSA&id=4gtv-4gtv054
-靖天映畫,http://43.155.27.52/litv.php?token=DG5HTF4S1FSA&id=4gtv-4gtv055
-靖洋卡通台,http://43.155.27.52/litv.php?token=DG5HTF4S1FSA&id=4gtv-4gtv057
-靖天戲劇台,http://43.155.27.52/litv.php?token=DG5HTF4S1FSA&id=4gtv-4gtv058
-博斯高球台,http://43.155.27.52/litv.php?token=DG5HTF4S1FSA&id=litv-longturn05
-博斯無限二台,http://43.155.27.52/litv.php?token=DG5HTF4S1FSA&id=litv-longturn13
-GINX Esports TV,http://43.155.27.52/litv.php?token=DG5HTF4S1FSA&id=4gtv-4gtv053
-CLASSICA古典樂,http://43.155.27.52/litv.php?token=DG5HTF4S1FSA&id=4gtv-4gtv059
-CATCHPLAY電影台,http://43.155.27.52/litv.php?token=DG5HTF4S1FSA&id=4gtv-4gtv076
-TRACE Sport Stars,http://43.155.27.52/litv.php?token=DG5HTF4S1FSA&id=4gtv-4gtv077
-TRACE Urban,http://43.155.27.52/litv.php?token=DG5HTF4S1FSA&id=4gtv-4gtv082
-國會頻道1台,http://43.155.27.52/litv.php?token=DG5HTF4S1FSA&id=4gtv-4gtv084
-VOA美國之音,http://43.155.27.52/litv.php?token=DG5HTF4S1FSA&id=litv-ftv03
-ARIRANG阿里郎頻道,http://43.155.27.52/litv.php?token=DG5HTF4S1FSA&id=4gtv-4gtv079
-好消息综合台,https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_definst_/liveevent/live-ch1-2.m3u8
 华藏卫视,https://js1.amtb.cn/liveedge/_definst_/livetv/playlist.m3u8
 唯心电视,http://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/chunklist_w1177047531.m3u8
 人间电视,https://61.216.67.119/bltvhd/bltv1/playlist.m3u8
 大爱一台,https://pulltv1.wanfudaluye.com/live/tv1.m3u8
 大爱二台,https://pulltv2.wanfudaluye.com/live/tv2.m3u8
+生命电视,http://61.216.67.119:1935/lifetv/lifetv.stream/manifest.m3u8
 ===卫视数字频道===
 安徽卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226391/index.m3u8
 兵团卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226439/index.m3u8
@@ -216,7 +139,7 @@ ARIRANG阿里郎頻道,http://43.155.27.52/litv.php?token=DG5HTF4S1FSA&id=4gtv-4
 古装剧场,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225663/index.m3u8
 动作电影,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225661/index.m3u8
 ===直播轮播频道===
-神探狄仁杰,http://cfss.cc/cdn/hy/29628048.flv#http://cfss.cc/cdn/hy/11352958.flv
+神探狄仁杰,http://cfss.cc/cdn/hy/11352958.flv
 倒霉特熊,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/87f87ba569c147e3805f80e4844d2de9/1200.m3u8
 雲朵妈妈,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/d8ad434c6b08421a927557a4d98da65c/1200.m3u8
 反转星球,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/3ccdecc7d6e341c1920ad4eac5d82f38/1200.m3u8
@@ -226,11 +149,7 @@ ARIRANG阿里郎頻道,http://43.155.27.52/litv.php?token=DG5HTF4S1FSA&id=4gtv-4
 大头儿子-01,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/252a7fe7786645b084271751a3f75725/1200.m3u8
 大头儿子-02,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/8c6227ce3d1d4c9297d5cfd9a08a4fa9/1200.m3u8
 大头儿子-04,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/46e4d00d85fe4287b54c8015de46e102/1200.m3u8
-福星高照㊣代,https://pull.kktv8.com/livekktv/99592190.flv
-鸿运当头㊣代,https://pull.kktv8.com/livekktv/99350550.flv
 天微科技,https://gcalic.v.myalicdn.com/gc/ylxs11_1/index.m3u8
-神乐影院-1台,https://tc-tc2-interact.douyucdn2.cn/dyliveflv1/85894rmovieChow_900p.m3u8
-神乐影院-2台,https://tc-tc2-interact.douyucdn2.cn/dyliveflv1a/122402rK7MO9bXSq_900.m3u8
 小宇60帧✔原,http://maomao.kandiantv.cn/douyu1.php?id=323876
 恐怖惊悚✔原,http://maomao.kandiantv.cn/douyu1.php?id=96577
 電影劇場✔原,http://maomao.kandiantv.cn/douyu1.php?id=7575350
@@ -249,6 +168,22 @@ ARIRANG阿里郎頻道,http://43.155.27.52/litv.php?token=DG5HTF4S1FSA&id=4gtv-4
 欧美大片✔原,http://maomao.kandiantv.cn/douyu1.php?id=2793084
 贝爷影厅✔原,http://maomao.kandiantv.cn/douyu1.php?id=252802
 译制国语✔原,http://maomao.kandiantv.cn/douyu1.php?id=2436390
+1905国内电影,http://ygbh.live/1905.php?id=1905a
+1905国外电影,http://ygbh.live/1905.php?id=1905b
+探索,http://61.221.215.25:8800/hls/1/index.m3u8
+星光电影,http://live.dxms.top/dwy/xgzht.php
+经典动画,http://live.dxms.top/dwy/jddh.php
+经典剧场,http://live.dxms.top/dwy/jdjc.php
+真武侠台,http://live.dxms.top/dwy/zwx.php
+宫廷剧场,http://live.dxms.top/dwy/gtjc.php
+经典清剧,http://live.dxms.top/dwy/jdqj.php
+经典天龙,http://live.dxms.top/dwy/jdtl.php
+金庸剧场,http://live.dxms.top/dwy/jyjc.php
+经典三国,http://live.dxms.top/dwy/jdsg.php
+经典三国,http://live.dxms.top/dwy/jdsg1.php
+经典喜剧,http://live.dxms.top/dwy/jdxj.php
+经典喜剧,http://live.dxms.top/dwy/jdxj1.php
+
 ===地方频道===
 安徽｜影视,http://112.30.194.221:20080/live/d18ff95cb1fb4bbcb56215e189fc12be.flv#http://112.30.194.221:20080/live/d18ff95cb1fb4bbcb56215e189fc12be/hls.m3u8#http://112.30.194.221:20080/live/d18ff95cb1fb4bbcb56215e189fc12be/hls.m3u8?zanhd
 安徽｜经济生活,http://112.30.194.221:20080/live/eac499adad7b49ff9cfa79ba84693959/hls.m3u8#http://112.30.194.221:20080/live/eac499adad7b49ff9cfa79ba84693959.flv
@@ -935,7 +870,7 @@ V2BEAT,http://de1se01.v2beat.live/playlist.m3u8
 桂林荔江湾,http://gctxyc.liveplay.myqcloud.com/gc/tyhjrys_1_md.m3u8
 梧州长寿桥,http://gcalic.v.myalicdn.com/gc/hgsspzxdpb_1/index.m3u8
 蒲城县椿林,http://gcalic.v.myalicdn.com/gc/sjzc01_1/index.m3u8
-长江大桥,http://gcalic.v.myalicdn.com/gc/hswlf_1/index.m3u8
+长江大桥，http://gcalic.v.myalicdn.com/gc/hswlf_1/index.m3u8
 黄山飞来石,http://gcalic.v.myalicdn.com/gc/hsptgy_1/index.m3u8
 成都春熙路,http://gctxyc.liveplay.myqcloud.com/gc/hsmbsh_1_md.m3u8
 云海日出,http://gcalic.v.myalicdn.com/gc/emsarm_1/index.m3u8
@@ -983,7 +918,7 @@ V2BEAT,http://de1se01.v2beat.live/playlist.m3u8
 湖南天门洞,http://gcalic.v.myalicdn.com/gc/tmstmd01_1/index.m3u8
 河池世外桃源,http://gcalic.v.myalicdn.com/gc/tms02_1/index.m3u8
 云梦仙顶,http://gctxyc.liveplay.myqcloud.com/gc/tms04_1_md.m3u8
-高坪花硒谷,http://gctxyc.liveplay.myqcloud.com/gc/drs01_1_md.m3u8
+高坪花谷,http://gctxyc.liveplay.myqcloud.com/gc/drs01_1_md.m3u8
 泰顺县廊桥,http://gctxyc.liveplay.myqcloud.com/gc/nss01_1_md.m3u8
 昆山教育基地,http://gctxyc.liveplay.myqcloud.com/gc/zdxq01_1_md.m3u8
 湖南岳阳楼,http://gcalic.v.myalicdn.com/gc/pts01_1/index.m3u8
