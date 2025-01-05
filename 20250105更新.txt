@@ -157,6 +157,17 @@ TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
 福建｜武夷山文旅茶,http://fjwysdb.chinashadt.com:2036/live/3.stream/playlist.m3u8
 福建｜漳州新闻,http://31182.hlsplay.aodianyun.com/lms_31182/tv_channel_175.m3u8
 甘肃｜临夏市电视台,http://124.152.34.102:8030/wCMq71/wCMq71_0.m3u8
+广东｜广州综合,https://tencentplaywebsite.gztv.com/live/zonghes.m3u8?txSecret=6add864a313ff831c007597957622e18&txTime=19435b7579a
+广东｜广州新闻,https://tencentplaywebsite.gztv.com/live/xinwen.m3u8?txSecret=b29994eef8407af28887796f72b25a96&txTime=19435cfddac
+广东｜广州南国都市,https://tencentplaywebsite.gztv.com/live/nanguodushi.m3u8?txSecret=70231474cff81da040ed1a39473f553c&txTime=1943580e002
+广东｜广州法治,https://tencentplaywebsite.gztv.com/live/fazhi.m3u8?txSecret=1919eadccaa868849ca61259a577afa8&txTime=19435d73f25
+广东｜广州影视,https://tencentplaywebsite.gztv.com/live/yingshi.m3u8?txSecret=cacc3df7800d205f62468ccccc8ebfbf&txTime=19435d47e30
+广东｜东莞综合,http://tvonline.sun0769.com/dgrtv1/mp4tv1_800/index.m3u8?timestamp=20250105164418&encrypt=152e4442dd78d80b5c86fe1b85bc5715
+广东｜东莞生活,http://tvonline.sun0769.com/dgrtv1/mp4tv2_1500/index.m3u8?timestamp=20250105164424&encrypt=c9a5dc3b86806ad518b1e37a254150fb
+广东｜河源综合,http://tmpstream.hyrtv.cn/xwzh/sd/live.m3u8
+广东｜河源公共,http://tmpstream.hyrtv.cn/hygg/sd/live.m3u8
+广东｜湛江新闻,http://gbtv-hls-wjq.zjwtv.com/zjtv/zhpd.m3u8
+广东｜湛江公共,http://2493103243.cloudvdn.com/a.m3u8?domain=gbtv-hls-wjq.zjwtv.com&player=4HgAADBUPUITwxcY&secondToken=secondToken%3A65KyVuDjppLKUJynheu4mLI5lgM&streamid=zjtv%3Azjtv%2Fggpd&v3=1
 广西｜都市,http://116.9.204.242:9901/tsfile/live/1002_1.m3u8
 广西｜综艺,http://116.9.204.242:9901/tsfile/live/0125_1.m3u8
 广西｜新闻,http://116.9.204.242:9901/tsfile/live/1001_1.m3u8
