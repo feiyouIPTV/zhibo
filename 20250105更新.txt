@@ -683,7 +683,6 @@ V2BEAT,http://de1se01.v2beat.live/playlist.m3u8
 乐山大佛,http://gctxyc.liveplay.myqcloud.com/gc/lsdfgfl_1_md.m3u8
 中益乡小学,http://gctxyc.liveplay.myqcloud.com/gc/lpsgmjng01_1_md.m3u8
 梧州长寿桥,http://gcalic.v.myalicdn.com/gc/hgsspzxdpb_1/index.m3u8
-长江大桥，http://gcalic.v.myalicdn.com/gc/hswlf_1/index.m3u8
 黄山飞来石,http://gcalic.v.myalicdn.com/gc/hsptgy_1/index.m3u8
 云海日出,http://gcalic.v.myalicdn.com/gc/emsarm_1/index.m3u8
 凤凰古城,http://gctxyc.liveplay.myqcloud.com/gc/fhgcdnhs_1_md.m3u8
