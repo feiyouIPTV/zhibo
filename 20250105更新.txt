@@ -25,7 +25,9 @@ CEC国际汉语文化,http://play.cec-tv.com.cn/channel/cec-tv1.m3u8
 CEC国际健康,http://play.cec-tv.com.cn/channel/cec-tv4.m3u8
 重温经典,http://ali.hlspull.yximgs.com/live/awei_cwjd.flv
 ===港澳台频道===
-凤凰卫视中文台,http://119.34.196.2:4502/udp/224.1.100.3:11111
+凤凰卫视中文台,http://119.34.196.2:4502/udp/224.1.100.3:11111#http://ali.hlspull.yximgs.com/live/diyp_fh2.flv
+凤凰卫视资讯台,http://ali.hlspull.yximgs.com/live/diyp_fh1.flv
+凤凰卫视香港台,http://ali.hlspull.yximgs.com/live/diyp_fh3.flv
 中天娱乐,http://61.221.215.25:8800/hls/47/index.m3u8
 香港环球,http://zb.xzxwhcb.com:9999/hls/world.m3u8
 有线新闻,http://61.10.2.140:80/live_freedirect/freehd209_h.live/chunklist_w135209556.m3u8
