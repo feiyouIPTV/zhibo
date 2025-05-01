@@ -1,5 +1,5 @@
 ===央视频道===
-CCTV-1 综合,http://ottrrs.hl.chinamobile.com/PLTV/8888888/224/3221226016/index.m3u8
+CCTV-1 综合,http://ottrrs.hl.chinamobile.com/PLTV/888888/224/3221226016/index.m3u8
 CCTV-2 财经,http://ottrrs.hl.chinamobile.com/PLTV/888888/224/3221225588/index.m3u8
 CCTV-3 综艺,http://ottrrs.hl.chinamobile.com/PLTV/8888888/224/3221226021/index.m3u8
 CCTV-4 中文国际,http://ottrrs.hl.chinamobile.com/PLTV/888888/224/3221226428/index.m3u8
@@ -31,9 +31,7 @@ CEC国际健康,http://play.cec-tv.com.cn/channel/cec-tv4.m3u8
 宠物俱乐部电视,https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-petclub-samsungnz/playlist.m3u8
 耀才财经,http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8
 中天娱乐,http://61.221.215.25:8800/hls/47/index.m3u8
-香港环球,http://zb.xzxwhcb.com:9999/hls/world.m3u8
-有线新闻,http://61.10.2.140:80/live_freedirect/freehd209_h.live/chunklist_w135209556.m3u8
-香港HKS,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
+香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 amc电影台,http://61.221.215.25:8800/hls/43/index.m3u8
 台湾番薯台,http://61.216.67.119:1935/TWHG/E1/chunklist_w705811302.m3u8
 TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
@@ -53,15 +51,15 @@ TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
 东方卫视,http://ottrrs.hl.chinamobile.com/PLTV/888888/224/3221225735/index.m3u8
 东南卫视,http://ottrrs.hl.chinamobile.com/PLTV/888888/224/3221226341/index.m3u8
 甘肃卫视,http://ottrrs.hl.chinamobile.com/PLTV/888888/224/3221225633/index.m3u8
-广东卫视,http://ottrrs.hl.chinamobile.com/PLTV/888888/224/3221226248/index.m3u8
+广东卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888/224/3221226248/index.m3u8
 深圳卫视,http://ottrrs.hl.chinamobile.com/PLTV/888888/224/3221225739/index.m3u8
 广西卫视,http://ottrrs.hl.chinamobile.com/PLTV/888888/224/3221226380/index.m3u8
-贵州卫视,http://ottrrs.hl.chinamobile.com/PLTV/888888/224/3221226474/index.m3u8
-河北卫视,http://ottrrs.hl.chinamobile.com/PLTV/8888888/224/3221226406/index.m3u8
-黑龙江卫视,http://ottrrs.hl.chinamobile.com/PLTV/888888/224/3221226327/index.m3u8
-河南卫视,http://ottrrs.hl.chinamobile.com/PLTV/888888/224/3221226480/index.m3u8
+贵州卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888/224/3221226474/index.m3u8
+河北卫视,http://ottrrs.hl.chinamobile.com/PLTV/888888/224/3221226406/index.m3u8
+黑龙江卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888/224/3221226327/index.m3u8
+河南卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888/224/3221226480/index.m3u8
 湖北卫视,http://ottrrs.hl.chinamobile.com/PLTV/888888/224/3221225627/index.m3u8
-湖南卫视,http://ottrrs.hl.chinamobile.com/PLTV/8888888/224/3221225610/index.m3u8
+湖南卫视,http://ottrrs.hl.chinamobile.com/PLTV/888888/224/3221225610/index.m3u8
 江苏卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225613/index.m3u8
 江西卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226344/index.m3u8
 吉林卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226397/index.m3u8
